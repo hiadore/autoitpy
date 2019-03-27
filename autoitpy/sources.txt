@@ -1,0 +1,10 @@
+https://github.com/bbigras/go-autoit
+Python Cookbook - https://books.google.co.id/books?id=1Shx_VXS6ioC&pg=PT445&lpg=PT445&dq=python+get+clsid+from+dll&source=bl&ots=BE6Z8IVfO9&sig=ACfU3U1M1lI5BpS3-GuY7W2hF9_my295XA&hl=id&sa=X&ved=2ahUKEwiL3uS--OfgAhWILo8KHUhPBpQQ6AEwBXoECAUQAQ#v=onepage&q=python%20get%20clsid%20from%20dll&f=false
+https://gist.github.com/EBNull/4219140
+https://stackoverflow.com/questions/3112495/accessing-unregistered-com-objects-from-python-via-a-registered-tlb
+https://stackoverflow.com/questions/24448607/how-to-correctly-load-a-windows-com-dll-in-python
+https://blogs.msdn.microsoft.com/yizhang/2018/01/20/calling-c-functions-from-python-part-1-using-ctypes/
+https://stackoverflow.com/questions/24448607/how-to-correctly-load-a-windows-com-dll-in-python
+https://github.com/jacexh/pyautoit
+ftp://179.27.78.218/CONTROLES%20DE%20ACCESO/Control%20de%20Acceso%20ZKS/ZKECOPackage/Python26/Lib/site-packages/win32com/client/makepy.py
+http://timgolden.me.uk/pywin32-docs/pythoncom.html
